@@ -49,6 +49,7 @@ h3 {
 
 .new-task-wrapper {
   display: flex;
+  margin: 20px 0 0;
 }
 
 .task-list,
@@ -111,7 +112,6 @@ h3 {
 /* New Task */
 .new-task {
   width: 318px;
-  margin: 20px 0 0;
 }
 
 /* Task list */
